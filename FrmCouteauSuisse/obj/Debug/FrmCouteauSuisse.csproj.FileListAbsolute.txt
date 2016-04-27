@@ -1,1 +1,9 @@
 C:\Users\davv\Documents\GitHub\FrmCouteauSuisse\FrmCouteauSuisse\bin\Debug\FrmCouteauSuisse.exe.config
+C:\Users\davv\Documents\GitHub\FrmCouteauSuisse\FrmCouteauSuisse\bin\Debug\FrmCouteauSuisse.exe
+C:\Users\davv\Documents\GitHub\FrmCouteauSuisse\FrmCouteauSuisse\bin\Debug\FrmCouteauSuisse.pdb
+C:\Users\davv\Documents\GitHub\FrmCouteauSuisse\FrmCouteauSuisse\obj\Debug\FrmCouteauSuisse.csprojResolveAssemblyReference.cache
+C:\Users\davv\Documents\GitHub\FrmCouteauSuisse\FrmCouteauSuisse\obj\Debug\FrmCouteauSuisse.FrmCouteauSuisse.resources
+C:\Users\davv\Documents\GitHub\FrmCouteauSuisse\FrmCouteauSuisse\obj\Debug\FrmCouteauSuisse.Properties.Resources.resources
+C:\Users\davv\Documents\GitHub\FrmCouteauSuisse\FrmCouteauSuisse\obj\Debug\FrmCouteauSuisse.csproj.GenerateResource.Cache
+C:\Users\davv\Documents\GitHub\FrmCouteauSuisse\FrmCouteauSuisse\obj\Debug\FrmCouteauSuisse.exe
+C:\Users\davv\Documents\GitHub\FrmCouteauSuisse\FrmCouteauSuisse\obj\Debug\FrmCouteauSuisse.pdb

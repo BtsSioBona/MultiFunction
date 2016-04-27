@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace FrmCouteauSuisse
 {
-    public partial class Form1 : Form
+    public partial class FrmCouteauSuisse : Form
     {
-        public Form1()
+        public FrmCouteauSuisse()
         {
             InitializeComponent();
+        }
+
+        private void lblTitre_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
