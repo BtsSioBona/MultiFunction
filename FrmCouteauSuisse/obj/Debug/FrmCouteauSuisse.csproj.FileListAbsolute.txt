@@ -1,1 +1,2 @@
 C:\Users\davv\Documents\GitHub\FrmCouteauSuisse\FrmCouteauSuisse\bin\Debug\FrmCouteauSuisse.exe.config
+C:\Users\toto\Documents\cours\BTS\Pragramme\C#\MultiFunction\FrmCouteauSuisse\bin\Debug\FrmCouteauSuisse.exe.config
