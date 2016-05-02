@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using MonPetitEditeur;
 using simpleList;
+using lesNavires;
 
 namespace FrmCouteauSuisse
 {
@@ -27,18 +28,19 @@ namespace FrmCouteauSuisse
         private void btnEditeurText_Click(object sender, EventArgs e)
         {
             var frmEditeur = new FrmEditeur();
-            frmEditeur.Show();
+            frmEditeur.ShowDialog();
         }
 
         private void btnListes_Click(object sender, EventArgs e)
         {
             var frmListeSimple = new FrmListeSimple();
-            frmListeSimple.Show();
+            frmListeSimple.ShowDialog();
         }
 
         private void btnGestionPorts_Click(object sender, EventArgs e)
         {
-
+            var frmGestionNavire = new Frm_Gestion_Navire();
+            frmGestionNavire.ShowDialog();
         }
     }
 }
