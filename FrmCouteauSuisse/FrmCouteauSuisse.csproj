@@ -52,11 +52,21 @@
     <Compile Include="FrmCouteauSuisse.Designer.cs">
       <DependentUpon>FrmCouteauSuisse.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmEditeur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEditeur.Designer.cs" />
+    <Compile Include="FrmListeSimple.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListeSimple.Designer.cs" />
+    <Compile Include="MonMenu.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmCouteauSuisse.resx">
       <DependentUpon>FrmCouteauSuisse.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmEditeur.resx" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

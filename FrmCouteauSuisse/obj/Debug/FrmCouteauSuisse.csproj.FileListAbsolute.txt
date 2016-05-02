@@ -7,3 +7,4 @@ C:\Users\davv\Documents\GitHub\FrmCouteauSuisse\FrmCouteauSuisse\obj\Debug\FrmCo
 C:\Users\davv\Documents\GitHub\FrmCouteauSuisse\FrmCouteauSuisse\obj\Debug\FrmCouteauSuisse.csproj.GenerateResource.Cache
 C:\Users\davv\Documents\GitHub\FrmCouteauSuisse\FrmCouteauSuisse\obj\Debug\FrmCouteauSuisse.exe
 C:\Users\davv\Documents\GitHub\FrmCouteauSuisse\FrmCouteauSuisse\obj\Debug\FrmCouteauSuisse.pdb
+C:\Users\davv\Documents\GitHub\FrmCouteauSuisse\FrmCouteauSuisse\obj\Debug\FrmCouteauSuisse.FrmEditeur.resources

@@ -86,13 +86,13 @@
             // mehToolStripMenuItem
             // 
             this.mehToolStripMenuItem.Name = "mehToolStripMenuItem";
-            this.mehToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
+            this.mehToolStripMenuItem.Size = new System.Drawing.Size(130, 26);
             this.mehToolStripMenuItem.Text = "Meh";
             // 
             // quitterToolStripMenuItem
             // 
             this.quitterToolStripMenuItem.Name = "quitterToolStripMenuItem";
-            this.quitterToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
+            this.quitterToolStripMenuItem.Size = new System.Drawing.Size(130, 26);
             this.quitterToolStripMenuItem.Text = "Quitter";
             // 
             // optionToolStripMenuItem
@@ -129,6 +129,7 @@
             this.btnEditeurText.TabIndex = 2;
             this.btnEditeurText.Text = "Editeur de Texte";
             this.btnEditeurText.UseVisualStyleBackColor = false;
+            this.btnEditeurText.Click += new System.EventHandler(this.btnEditeurText_Click);
             // 
             // btnGestionPorts
             // 
@@ -144,6 +145,7 @@
             this.btnGestionPorts.TabIndex = 3;
             this.btnGestionPorts.Text = "Gestion de Ports";
             this.btnGestionPorts.UseVisualStyleBackColor = false;
+            this.btnGestionPorts.Click += new System.EventHandler(this.btnGestionPorts_Click);
             // 
             // btnListes
             // 
@@ -159,6 +161,7 @@
             this.btnListes.TabIndex = 4;
             this.btnListes.Text = "Les Listes";
             this.btnListes.UseVisualStyleBackColor = false;
+            this.btnListes.Click += new System.EventHandler(this.btnListes_Click);
             // 
             // btnMeh
             // 

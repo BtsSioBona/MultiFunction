@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MonPetitEditeur;
+using simpleList;
 
 namespace FrmCouteauSuisse
 {
@@ -18,6 +20,23 @@ namespace FrmCouteauSuisse
         }
 
         private void lblTitre_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnEditeurText_Click(object sender, EventArgs e)
+        {
+            var frmEditeur = new FrmEditeur();
+            frmEditeur.Show();
+        }
+
+        private void btnListes_Click(object sender, EventArgs e)
+        {
+            var frmListeSimple = new FrmListeSimple();
+            frmListeSimple.Show();
+        }
+
+        private void btnGestionPorts_Click(object sender, EventArgs e)
         {
 
         }
